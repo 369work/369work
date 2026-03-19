@@ -1,16 +1,15 @@
-## Hi there 👋
+# 369work
 
-<!--
-**369work/369work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+WordPress theme & plugin developer.  
+Loves PHP, Laravel, and the beauty of simplicity.
 
-Here are some ideas to get you started:
+Building minimal WordPress themes for photographers and illustrators.  
+OSS enthusiast — profit is secondary.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Works
+- [Blanky](https://blanky.369theme.com) — Minimal WordPress block theme ⭐
+- [369theme.com](https://369theme.com)
+
+## Sponsor
+If you like my work, consider sponsoring me 🙏  
+→ [github.com/sponsors/369work](https://github.com/sponsors/369work)
