@@ -1,6 +1,7 @@
 # miroku
 
 WordPress Theme & Plugin Developer
+
 Loves PHP, Laravel, and the beauty of simplicity.
 
 💼 Creating minimal WP themes for solopreneurs and small businesses.
