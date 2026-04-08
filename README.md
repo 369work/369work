@@ -4,6 +4,7 @@ WordPress Theme & Plugin Developer
 Loves PHP, Laravel, and the beauty of simplicity.
 
 💼 Creating minimal WP themes for solopreneurs and small businesses.
+
 🌱 OSS enthusiast — Your ⭐ is my fuel to keep building!
 
 ## Works
