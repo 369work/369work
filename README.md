@@ -22,3 +22,6 @@ Loves PHP, Laravel, and the beauty of simplicity.
 If you like my work, consider sponsoring me 🙏  
 → [github.com/sponsors/369work](https://github.com/sponsors/369work)
 
+I would be grateful if you could treat me to a cup of coffee.☕
+→ [https://buymeacoffee.com/miroku](https://buymeacoffee.com/miroku)
+
