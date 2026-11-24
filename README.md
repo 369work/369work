@@ -16,8 +16,8 @@ WordPress theme developer in Tokyo, Japan.
 |---|---|
 | [Abira](https://369theme.com/en/themes/abira) | Starter block theme |
 | [Blanky](https://369theme.com/en/themes/blanky) | Minimal block theme |
-| [Tokusho Generator](https://github.com/369work/tokusho-generator) | Generates the legal disclosure page required for online shops in Japan |
-| [Misleading Checker](https://github.com/369work/misleading-checker) | Helps check for misleading advertising expressions |
+| [Tokusho Generator](https://github.com/369work/tokusho-generator) | PHP library that generates the legal disclosure page required for online shops in Japan. Also available as a WordPress plugin. |
+| [Misleading Checker](https://github.com/369work/misleading-checker) | PHP library that helps check for misleading advertising expressions. A WordPress plugin version is coming soon. |
 
 ## Support my work
 
