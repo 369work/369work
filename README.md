@@ -1,28 +1,29 @@
-# Hi there! 👋
-I am miroku.
+# Hi, I'm miroku 💋
 
-## WordPress Theme & Plugin Developer
-Loves PHP, Laravel, and the beauty of simplicity.
+WordPress theme developer in Tokyo, Japan.
+**Core Contributor** (credited in 5 releases: 6.7–7.1) · Independent
 
+## What I do
 
-* 💼 **Focus:** Creating minimal WP themes for solopreneurs and small businesses.
-* 🌱 **Philosophy:** OSS enthusiast — **Your ⭐ is my fuel to keep building!**
-
----
+- 🧩 **Block themes** — 6 free themes on WordPress.org, active on 300+ sites
+- 🏪 **[369Theme](https://369theme.com/en)** — industry-specific block themes for small businesses in Japan
+- 🛠 **WordPress Core** — code, patterns, and testing
+- 🌏 **Japanese** — translating apps that support WordPress development
 
 ## Works
-- [Abira](https://abira.369theme.com) — Starter WordPress block theme ⭐
-- [Blanky](https://blanky.369theme.com) — Minimal WordPress block theme ⭐
-- [Tokusho generator](https://github.com/369work/tokusho-generator) — A PHP library ⭐
-- [Misleading checker](https://github.com/369work/misleading-checker) — A PHP library ⭐
-- [369theme.com](https://369theme.com) — Themes I've created so far 💕
 
----
+| Project | What it is |
+|---|---|
+| [Abira](https://369theme.com/en/themes/abira) | Starter block theme |
+| [Blanky](https://369theme.com/en/themes/blanky) | Minimal block theme |
+| [Tokusho Generator](https://github.com/369work/tokusho-generator) | Generates the legal disclosure page required for online shops in Japan |
+| [Misleading Checker](https://github.com/369work/misleading-checker) | Helps check for misleading advertising expressions |
 
-## Sponsor
-If you like my work, consider sponsoring me 🙏  
-→ [github.com/sponsors/369work](https://github.com/sponsors/369work)
+## Support my work
 
-I would be grateful if you could treat me to a cup of coffee.☕  
-→ [https://buymeacoffee.com/miroku](https://buymeacoffee.com/miroku)
+As an independent developer, I spend part of my time contributing to WordPress Core.
+Sponsorship helps me keep doing it.
+
+- 💖 [GitHub Sponsors](https://github.com/sponsors/369work)
+- ☕ [Buy Me a Coffee](https://buymeacoffee.com/miroku)
 
