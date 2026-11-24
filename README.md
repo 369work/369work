@@ -1,6 +1,6 @@
 # Hi, I'm miroku 💋
 
-WordPress theme developer in Tokyo, Japan.
+WordPress theme developer in Tokyo, Japan.  
 **Core Contributor** (credited in 5 releases: 6.7–7.1) · Independent
 
 ## What I do
